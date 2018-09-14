@@ -3,7 +3,7 @@
 ### Data
 
 If the company has to handle personal data/big data:
-* How do you ensure that the data is secured and immune to breaches? 
+* How do you ensure that the data is secured and immune to breaches?
 * How do you manage your data?
 
 
@@ -18,3 +18,5 @@ If the company has to handle personal data/big data:
 * What is the day to day responsibilities for DevOps engineers at your company?
 * What key points are there to working on a successful project
 * Whats the most difficult aspect of running a project/product.
+* What does you company offer that the competitors don't ?
+*
