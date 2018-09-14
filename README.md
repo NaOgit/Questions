@@ -29,6 +29,12 @@
 * How long are your sprints ?
 * What is the day to day responsibilities for DevOps engineers at your company?
 * How has DevOps improved the speed of projects being deployed?
+---
+* How big are your scrum teams?
+* what devOps tools do you use?
+* what is your benchmark for success?
+* what advise can you give us?
+* Key ingredients to running a successful project?
 
 
 ### Projects
@@ -65,27 +71,3 @@
 * What projects are you currently working on?
 
 * How has DevOps improved the speed of projects being deployed?
-
----
-
-## Data
-
-* How do you ensure that the data is secured and immune to breaches?
-
-* How do you manage your data?
-
----
-
-### DevOps
-
-* How big are your scrum teams?
-
-* what devOps tools do you use?
-
-* what is your benchmark for success?
-
-* what advise can you give us?
-
-* Key ingredients to running a successful project?
-
----
