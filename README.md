@@ -21,7 +21,7 @@
 * How long are your sprints ?
 * What is the day to day responsibilities for DevOps engineers at your company?
 
-### Projects
+### Projects
 
 * What key points are there to working on a successful project
 * What projects are you currently working on?
