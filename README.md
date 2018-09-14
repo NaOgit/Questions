@@ -1,10 +1,6 @@
 # Client Questions
 
-## Questions clients have asked us
-
-* How do you ensure that the data is secured and immune to breaches?
-
-* How do you manage your data?
+## Data
 
 * How do you ensure that the data is secured and immune to breaches?
 
