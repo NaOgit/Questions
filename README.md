@@ -47,3 +47,7 @@ How do you manage your data?
 * What projects are you currently working on?
 
 * How has DevOps improved the speed of projects being deployed?
+
+* How many spartans are you looking to take on?
+
+* How does your company separate themselves from their competitors?
