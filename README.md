@@ -10,6 +10,10 @@
 
 * How do you manage your data?
 
+---
+
+### DevOps
+
 * How big are your scrum teams?
 
 * what devOps tools do you use?
@@ -41,7 +45,7 @@
 
 * What is the day to day responsibilities for DevOps engineers at your company?
 
-### Projects
+### Projects
 
 * What key points are there to working on a successful project
 
