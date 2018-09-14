@@ -1,12 +1,24 @@
 # Questions
 
-Data
+### Data
 
-Mav testing
 
-1) If the company has to handle personal data/big data:
+If the company has to handle personal data/big data:
+* How do you ensure that the data is secured and immune to breaches?
+* How do you manage your data?
 
-2) How do you ensure that the data is secured and immune to breaches?
-   How do you manage your data?
+---
 
-3) As a junior DevOps engineer, coming into your organisation. How are the senior DevOps engineering teams culture like?
+* What problems are you solving with DevOps?
+* How big the teams are?
+* Structure of the team ?
+* How DevOps work with their agile approach ?
+* Tech stack?
+* How do you deal with new recruits that may not have the knowledge of the languages you use ?
+* How often do your do coed reviews?
+* How long are your sprints ?
+* What is the day to day responsibilities for DevOps engineers at your company?
+* What key points are there to working on a successful project
+* Whats the most difficult aspect of running a project/product.
+---
+* As a junior DevOps engineer, coming into your organisation. How are the senior DevOps engineering teams culture like?
