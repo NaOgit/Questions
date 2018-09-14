@@ -1,26 +1,5 @@
 # Client Questions
 
-## Data
-
-* How do you ensure that the data is secured and immune to breaches?
-
-* How do you manage your data?
-
----
-
-### DevOps
-
-* How big are your scrum teams?
-
-* what devOps tools do you use?
-
-* what is your benchmark for success?
-
-* what advise can you give us?
-
-* Key ingredients to running a successful project?
-
----
 ## Questions we have asked clients
 
 * What problems are you solving with DevOps?
@@ -80,3 +59,27 @@
 * What projects are you currently working on?
 
 * How has DevOps improved the speed of projects being deployed?
+
+---
+
+## Data
+
+* How do you ensure that the data is secured and immune to breaches?
+
+* How do you manage your data?
+
+---
+
+### DevOps
+
+* How big are your scrum teams?
+
+* what devOps tools do you use?
+
+* what is your benchmark for success?
+
+* what advise can you give us?
+
+* Key ingredients to running a successful project?
+
+---
