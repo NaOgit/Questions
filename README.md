@@ -1,5 +1,18 @@
 # Client Questions
 
+## Personal Questions:
+what have you learnt the most in sparta?
+Why should we pick you?
+How did you get into tech?
+What are you passionate about?
+How would you approach a difficult task?
+Why do you want to work with us?
+
+
+## Technical:
+What is Vagrant? Virtual Box?
+What new engineering specialty skills have you developed during the past year?
+
 ## Company
 * what is your benchmark for success?
 * what advise can you give us?
