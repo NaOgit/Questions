@@ -41,6 +41,22 @@
 
 * What is the day to day responsibilities for DevOps engineers at your company?
 
+### Projects
+
+* What key points are there to working on a successful project
+
+* What projects are you currently working on?
+
+* What was your favourite project to work on?
+
+* How did you solve a problem or conflict during a project/task?
+
+* What agile methodologies do you follow when tackling a project?
+
+* How many sprints do you normally have during a project?
+
+* Whats the most difficult aspect of running a project/product.
+
 * What key points are there to working on a successful project
 
 * Whats the most difficult aspect of running a project/product.
