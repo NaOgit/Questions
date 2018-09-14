@@ -1,6 +1,8 @@
 # Client Questions
 
+
 ## Questions we have asked clients
+
 
 * What problems are you solving with DevOps?
 
@@ -60,6 +62,9 @@
 
 * How has DevOps improved the speed of projects being deployed?
 
+
+* As a junior DevOps engineer, coming into your organisation. How are the senior DevOps engineering teams culture like?
+
 ---
 
 ## Data
@@ -83,3 +88,4 @@
 * Key ingredients to running a successful project?
 
 ---
+
