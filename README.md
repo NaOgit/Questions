@@ -3,15 +3,13 @@
 ### Data
 
 
-If the company has to handle personal data/big data:
-
 * How do you ensure that the data is secured and immune to breaches?
 * How do you manage your data?
 
 ---
 
-* How do you ensure that the data is secured and immune to breaches?
-* How do you manage your data?
+### DevOps
+
 * How big are your scrum teams?
 * what devOps tools do you use?
 * what is your benchmark for success?
@@ -28,10 +26,17 @@ If the company has to handle personal data/big data:
 * How often do your do coed reviews?
 * How long are your sprints ?
 * What is the day to day responsibilities for DevOps engineers at your company?
+
+### Projects
+
 * What key points are there to working on a successful project
+* What projects are you currently working on?
+* What was your favourite project to work on?
+* How did you solve a problem or conflict during a project/task?
+* What agile methodologies do you follow when tackling a project?
+* How many sprints do you normally have during a project?
 * Whats the most difficult aspect of running a project/product.
-How do you ensure that the data is secured and immune to breaches?
-How do you manage your data?
+
 
 * How do you implement DevOps into your current development methodology (Agile, V-Box or Waterfall)?
 
